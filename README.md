@@ -9,5 +9,7 @@
 # Picture Source
 From Kaoru
 
+# Source code
+[Source](https://github.com/XiaoGeNintendo/TypingCompetition2-Source)
 # License
 Do not redistribute this game without permission.
